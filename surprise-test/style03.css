@@ -1,0 +1,28 @@
+*{box-sizing: border-box;
+}
+.container{
+    width: 50%;
+    background-color: aquamarine;
+    text-align: center;
+    padding: 10px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+#submit{
+    
+    background-color: #FF6852;
+    border-radius: 12px;
+    border: none;
+  
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+
+}

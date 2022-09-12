@@ -1,0 +1,23 @@
+#container{
+    height: 300%;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+nav{
+    font-size: large;
+    
+}
+.image-section{
+width: 40%;
+/* display: inline; */
+display:flex;
+white-space: nowrap;
+justify-content: baseline;
+}
+figure-caption{
+    display: block;
+}
+.style-of-heading{
+    font-family:'Courier New', Courier, monospace;
+    font-size: medium;
+}
